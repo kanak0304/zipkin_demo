@@ -6,7 +6,3 @@ for f in $(find . -name pom.xml);do
  ./mvnw clean package -DskipTests=true
  popd
 done
-
-for f in $(find . -name manifest.yml);do
- cf push -f $f;
-done
