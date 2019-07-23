@@ -1,5 +1,5 @@
 applications:
-  - name: cf-push
+  - name: CHANGEME
     path: target/cf-push-0.0.1-SNAPSHOT.jar
     memory: 256m
     env:

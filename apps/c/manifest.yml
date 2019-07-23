@@ -1,5 +1,5 @@
 applications:
-  - name: c
+  - name: CHANGEME
     path: target/c-0.0.1-SNAPSHOT.jar
     memory: 256m
     env:

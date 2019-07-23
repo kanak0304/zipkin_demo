@@ -1,5 +1,5 @@
 applications:
-  - name: cf
+  - name: CHANGEME
     path: target/cf-0.0.1-SNAPSHOT.jar
     memory: 256m
     env:

@@ -1,5 +1,5 @@
 applications:
-  - name: h
+  - name: CHANGEME
     path: target/h-0.0.1-SNAPSHOT.jar
     memory: 256m
     env:

@@ -1,5 +1,5 @@
 applications:
-  - name: push
+  - name: CHANGEME
     path: target/push-0.0.1-SNAPSHOT.jar
     memory: 256m
     env:
